@@ -1,0 +1,33 @@
+{
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    },
+    {
+      "id": "Terms",
+      "isDefault": false
+    },
+    {
+      "id": "School",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#D6D1F2",
+  "unpublishedAppLayout": {
+    "type": "TABLET"
+  },
+  "publishedAppLayout": {
+    "type": "TABLET"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
